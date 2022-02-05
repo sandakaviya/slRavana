@@ -29,7 +29,11 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/RAVANA-SL/slRavana/blob/main/LICENSE)
 
-   
+ ###අපේ සමූහයන් වලට අදම එකතු වෙන්න...
+ links👇
+ ✰THE B BOT GROUP 
+ https://chat.whatsapp.com/CxnlVOYqExIJe6AJILyyCm
+
 ### ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
