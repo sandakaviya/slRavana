@@ -48,7 +48,7 @@ By establishing the RAVANA, you are deemed to have accepted these responsibiliti
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/sandakaviya/slRavana)
      </div>
      
-### ⚠️ Warning! 
+### ⚠️ Warning!.
 ```
 Userbot නිසා; ඔබේ WhatsApp ගිණුම තහනම් කළ හැකිය.(.ban කමාන්ඩ් වැරදි ලෙස ගැහුවොත්)
 මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියකි, ඔබ කරන සෑම දෙයකටම ඔබ වගකිව යුතුය.
